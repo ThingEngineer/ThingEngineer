@@ -15,13 +15,13 @@
     "web_technologies": {
       "platforms": ["Cloudflare", "AWS", "Supabase", "Vercel"],
       "frameworks": ["SvelteKit", "Next.JS", "PHP"],
-      "databases": ["PostGIS"],
+      "databases": ["PostGIS", "SQLite", "MySQL/MariaDB", "MongoDB", "Reddis"],
       "note": "And Many More..."
     },
     "embedded_systems": {
       "frameworks": ["ESP-IDF", "PlatformIO", "FreeRTOS", "ROS"],
       "languages": ["C/C++", "Assembly"],
-      "tools": ["JTAG/SWD"]
+      "tools": ["JTAG/SWD", "Flash", "OTA"]
     },
     "hardware_design": {
       "languages": ["VHDL"],
