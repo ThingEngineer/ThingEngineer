@@ -3,15 +3,15 @@
 ```json
 {
   "name": "Josh Campbell",
-  "professional": {
+  "👔 professional": {
     "roles": ["CTO", "Developer", "Maker", "R&D"],
     "companies": ["77SDG", "DolphinIR", "Ajillion", "Community Outreach"],
-    "location": {
+    "📍 location": {
       "current": "United States",
       "future": "TBD"
     }
   },
-  "technical_expertise": {
+  "🛠️ technical_expertise": {
     "web_technologies": {
       "platforms": ["Cloudflare", "AWS", "Supabase", "Vercel"],
       "frameworks": ["SvelteKit", "Next.JS", "PHP"],
@@ -29,7 +29,7 @@
       "cad_tools": ["KiCad", "Autodesk EAGLE", "Fusion 360"]
     }
   },
-  "manufacturing_capabilities": {
+  "🏭 manufacturing_capabilities": {
     "subtractive": ["CNC Milling", "Plasma Cutting", "Laser Cutting"],
     "additive": ["3D Printing"],
     "electronics": ["2-Layer PCB Fab"],
@@ -39,7 +39,7 @@
     "rf_testing": ["RF Design, Testing and Analysis"],
     "lab_equipment": ["Full Analogue/Digital/RF Lab"]
   },
-  "interests": [
+  "💡 interests": [
     "Hardware",
     "Software", 
     "Automation",
@@ -48,7 +48,7 @@
     "IoT",
     "Making mistakes and learning from them"
   ],
-  "current_projects": [
+  "✨ current_projects": [
     "Underground Construction ERP and GIS hardware"
   ]
 }
