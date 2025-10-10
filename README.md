@@ -8,7 +8,7 @@ I'm a CTO, Developer, and Maker with a passion for embedded hardware, software, 
 
 
 <details>
-<summary><b>🥞 My Full Stack</b></summary>
+<summary><b>🥞 My (mostly) Full Stack</b></summary>
   <ul>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=cloudflare,supabase,aws,vercel,svelte,nextjs,laravel,angular,react,androidstudio,swift,rust,cpp,cs,c,cmake,java,js,ts,php,html,tailwind,css,bash,py,processing,postgres,sqlite,mysql,mongodb,redis,appwrite,graphql,ros,matlab,git,github,docker,postman,regex,arduino,raspberrypi,grafana,md,vscode,sublime,apple,linux,debian,kali,nginx,nodejs,pnpm,ai,pytorch&titles=true" />
