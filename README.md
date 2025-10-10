@@ -86,6 +86,6 @@ I'm currently developing an **Underground Construction ERP application and integ
 
 <p align="center">
   <img src="https://github-readme-stats-ruddy-nine-14.vercel.app/api?username=ThingEngineer&count_private=true&show_icons=true&theme=radical&hide_title=true" alt="Josh's GitHub Stats" />
-  <img src="https://github-readme-stats-ruddy-nine-14.vercel.app/api/top-langs/?username=ThingEngineer&count_private=true&layout=compact&theme=radical&hide_title=true&langs_count=8&card_width=400px" alt="Josh's Top Languages" />
+  <img src="https://github-readme-stats-ruddy-nine-14.vercel.app/api/top-langs/?username=ThingEngineer&count_private=true&layout=compact&theme=radical&hide_title=true&langs_count=8&card_width=468px" alt="Josh's Top Languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThingEngineer&theme=github-compact&hide_title=true&height=400" alt="Josh's Activity in the last 30 days" />
 </p>
