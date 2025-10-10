@@ -18,13 +18,6 @@ I'm a CTO, Developer, and Maker with a passion for embedded hardware, software, 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats-ruddy-nine-14.vercel.app/api?username=ThingEngineer&count_private=true&show_icons=true&theme=radical" alt="Josh's GitHub Stats" />
-  <img src="https://github-readme-stats-ruddy-nine-14.vercel.app/api/top-langs/?username=ThingEngineer&count_private=true&layout=compact&theme=radical" alt="Josh's Top Languages" />
-</p>
-
----
-
 ### 🛠️ My Expertise & Capabilities
 
 <details>
@@ -85,17 +78,14 @@ I'm a CTO, Developer, and Maker with a passion for embedded hardware, software, 
 
 ### 🚀 Current Focus
 
-I'm currently developing an **Underground Construction ERP and integrated GIS hardware solution**.
+I'm currently developing an **Underground Construction ERP application and integrated GIS hardware solution**.
 
 ---
 
-### 📫 How to Reach Me
+### 📊 My GitHub Stats
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/thingengineer/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/ThingEngineer" target="_blank">
-    <img src="https://img.shields.io/badge/X.COM-000000?style=for-the-badge&logo=x&logoColor=white" alt="X.com"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats-ruddy-nine-14.vercel.app/api?username=ThingEngineer&count_private=true&show_icons=true&theme=radical&hide_title=true" alt="Josh's GitHub Stats" />
+  <img src="https://github-readme-stats-ruddy-nine-14.vercel.app/api/top-langs/?username=ThingEngineer&count_private=true&layout=compact&theme=radical&hide_title=true&langs_count=8&card_width=400px" alt="Josh's Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThingEngineer&theme=github-compact&hide_title=true&height=400" alt="Josh's Activity in the last 30 days" />
 </p>
