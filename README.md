@@ -3,198 +3,200 @@
 I'm a CTO, Developer, and Maker with a passion for embedded hardware, software, automation, and high-power electronics. I thrive on making mistakes and sometimes learning from them. My professional experience spans roles in R&D, development, and leadership in multiple companies and organizations.
 
 ### Currently Building With:
-<p align="left">
-  <a href="https://www.cloudflare.com/" title="Cloudflare" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare" alt="Cloudflare" width="48" height="48" />
-  </a>
-  <a href="https://vercel.com/" title="Vercel" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" alt="Vercel" width="48" height="48" />
-  </a>
-  <a href="https://supabase.io/" title="Supabase" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" alt="Supabase" width="48" height="48" />
-  </a>
-  <a href="https://svelte.dev/" title="Svelte" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=svelte" alt="Svelte" width="48" height="48" />
-  </a>
-  <a href="https://tailwindcss.com/" title="Tailwind CSS" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48" />
-  </a>
-  <a href="https://ui.shadcn.com" title="shadcn" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" alt="shadcn" width="48" height="48" />
-  </a>
-</p>
+<ul style="list-style: none">
+  <p>
+    <a href="https://www.cloudflare.com/" title="Cloudflare" target="_blank" rel="noopener">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare" alt="Cloudflare" width="48" height="48" />
+    </a>
+    <a href="https://vercel.com/" title="Vercel" target="_blank" rel="noopener">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" alt="Vercel" width="48" height="48" />
+    </a>
+    <a href="https://supabase.io/" title="Supabase" target="_blank" rel="noopener">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" alt="Supabase" width="48" height="48" />
+    </a>
+    <a href="https://svelte.dev/" title="Svelte" target="_blank" rel="noopener">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=svelte" alt="Svelte" width="48" height="48" />
+    </a>
+    <a href="https://tailwindcss.com/" title="Tailwind CSS" target="_blank" rel="noopener">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48" />
+    </a>
+    <a href="https://ui.shadcn.com" title="shadcn" target="_blank" rel="noopener">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" alt="shadcn" width="48" height="48" />
+    </a>
+  </p>
+</ul>
 
 <details>
 <summary><b>🥞 The Stack Powering My Projects</b></summary>
-  <ul>
-    <p align="left">
-      <a href="https://www.cloudflare.com/" title="Cloudflare" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="40" height="40"/>
+  <ul style="list-style: none">
+    <p>
+      <a href="https://www.cloudflare.com/" title="Cloudflare" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="48" height="48"/>
       </a>
-      <a href="https://supabase.io/" title="Supabase" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="40" height="40"/>
+      <a href="https://supabase.io/" title="Supabase" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="48" height="48"/>
       </a>
-      <a href="https://aws.amazon.com/" title="Amazon Web Services" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/>
+      <a href="https://aws.amazon.com/" title="Amazon Web Services" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48"/>
       </a>
-      <a href="https://vercel.com/" title="Vercel" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40"/>
+      <a href="https://vercel.com/" title="Vercel" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48"/>
       </a>
-      <a href="https://svelte.dev/" title="Svelte" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" width="40" height="40"/>
+      <a href="https://svelte.dev/" title="Svelte" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" width="48" height="48"/>
       </a>
-      <a href="https://nextjs.org/" title="Next.js" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
+      <a href="https://nextjs.org/" title="Next.js" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48"/>
       </a>
-      <a href="https://laravel.com/" title="Laravel" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" height="40"/>
+      <a href="https://laravel.com/" title="Laravel" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="48" height="48"/>
       </a>
-      <a href="https://angular.io/" title="Angular" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40"/>
+      <a href="https://angular.io/" title="Angular" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="48" height="48"/>
       </a>
-      <a href="https://reactjs.org/" title="React" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
+      <a href="https://reactjs.org/" title="React" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48"/>
       </a>
-      <a href="https://developer.android.com/studio" title="Android Studio" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" height="40"/>
+      <a href="https://developer.android.com/studio" title="Android Studio" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="48" height="48"/>
       </a>
-      <a href="https://www.swift.org/" title="Swift" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="40" height="40"/>
+      <a href="https://www.swift.org/" title="Swift" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="48" height="48"/>
       </a>
-      <a href="https://www.rust-lang.org/" title="Rust" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40"/>
+      <a href="https://www.rust-lang.org/" title="Rust" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="48" height="48"/>
       </a>
-      <a href="https://isocpp.org/" title="C++" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
+      <a href="https://isocpp.org/" title="C++" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48"/>
       </a>
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/>
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" height="48"/>
       </a>
-      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48"/>
       </a>
-      <a href="https://cmake.org/" title="CMake" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" width="40" height="40"/>
+      <a href="https://cmake.org/" title="CMake" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" width="48" height="48"/>
       </a>
-      <a href="https://www.java.com/" title="Java" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
+      <a href="https://www.java.com/" title="Java" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/>
       </a>
-      <a href="https://www.javascript.com/" title="JavaScript" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
+      <a href="https://www.javascript.com/" title="JavaScript" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48"/>
       </a>
-      <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
+      <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48"/>
       </a>
-      <a href="https://www.php.net/" title="PHP" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/>
+      <a href="https://www.php.net/" title="PHP" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48"/>
       </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48"/>
       </a>
-      <a href="https://tailwindcss.com/" title="Tailwind CSS" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/>
+      <a href="https://tailwindcss.com/" title="Tailwind CSS" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48"/>
       </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48"/>
       </a>
-      <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
+      <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" height="48"/>
       </a>
-      <a href="https://www.python.org/" title="Python" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
+      <a href="https://www.python.org/" title="Python" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48"/>
       </a>
-      <a href="https://processing.org/" title="Processing" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=processing" alt="Processing" width="40" height="40"/>
+      <a href="https://processing.org/" title="Processing" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=processing" alt="Processing" width="48" height="48"/>
       </a>
-      <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
+      <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48"/>
       </a>
-      <a href="https://www.sqlite.org/" title="SQLite" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/>
+      <a href="https://www.sqlite.org/" title="SQLite" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" height="48"/>
       </a>
-      <a href="https://www.mysql.com/" title="MySQL" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
+      <a href="https://www.mysql.com/" title="MySQL" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48"/>
       </a>
-      <a href="https://www.mongodb.com/" title="MongoDB" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
+      <a href="https://www.mongodb.com/" title="MongoDB" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48"/>
       </a>
-      <a href="https://redis.io/" title="Redis" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/>
+      <a href="https://redis.io/" title="Redis" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48"/>
       </a>
-      <a href="https://appwrite.io/" title="Appwrite" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=appwrite" alt="Appwrite" width="40" height="40"/>
+      <a href="https://appwrite.io/" title="Appwrite" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=appwrite" alt="Appwrite" width="48" height="48"/>
       </a>
-      <a href="https://graphql.org/" title="GraphQL" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="40" height="40"/>
+      <a href="https://graphql.org/" title="GraphQL" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="48" height="48"/>
       </a>
-      <a href="https://www.ros.org/" title="ROS" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=ros" alt="ROS" width="40" height="40"/>
+      <a href="https://www.ros.org/" title="ROS" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=ros" alt="ROS" width="48" height="48"/>
       </a>
-      <a href="https://www.mathworks.com/products/matlab.html" title="MATLAB" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" width="40" height="40"/>
+      <a href="https://www.mathworks.com/products/matlab.html" title="MATLAB" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" width="48" height="48"/>
       </a>
-      <a href="https://git-scm.com/" title="Git" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+      <a href="https://git-scm.com/" title="Git" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
       </a>
-      <a href="https://github.com/" title="GitHub" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+      <a href="https://github.com/" title="GitHub" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
       </a>
-      <a href="https://www.docker.com/" title="Docker" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
+      <a href="https://www.docker.com/" title="Docker" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48"/>
       </a>
-      <a href="https://www.postman.com/" title="Postman" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
+      <a href="https://www.postman.com/" title="Postman" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48"/>
       </a>
-      <a href="https://en.wikipedia.org/wiki/Regular_expression" title="Regex" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=regex" alt="Regex" width="40" height="40"/>
+      <a href="https://en.wikipedia.org/wiki/Regular_expression" title="Regex" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=regex" alt="Regex" width="48" height="48"/>
       </a>
-      <a href="https://www.arduino.cc/" title="Arduino" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="40" height="40"/>
+      <a href="https://www.arduino.cc/" title="Arduino" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="48" height="48"/>
       </a>
-      <a href="https://www.raspberrypi.org/" title="Raspberry Pi" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" width="40" height="40"/>
+      <a href="https://www.raspberrypi.org/" title="Raspberry Pi" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" width="48" height="48"/>
       </a>
-      <a href="https://grafana.com/" title="Grafana" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="40" height="40"/>
+      <a href="https://grafana.com/" title="Grafana" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="48" height="48"/>
       </a>
-      <a href="https://www.markdownguide.org/" title="Markdown" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="40" height="40"/>
+      <a href="https://www.markdownguide.org/" title="Markdown" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="48" height="48"/>
       </a>
-      <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
+      <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48"/>
       </a>
-      <a href="https://www.sublimetext.com/" title="Sublime Text" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=sublime" alt="Sublime Text" width="40" height="40"/>
+      <a href="https://www.sublimetext.com/" title="Sublime Text" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=sublime" alt="Sublime Text" width="48" height="48"/>
       </a>
-      <a href="https://www.apple.com/" title="Apple" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=apple" alt="Apple" width="40" height="40"/>
+      <a href="https://www.apple.com/" title="Apple" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=apple" alt="Apple" width="48" height="48"/>
       </a>
-      <a href="https://www.linux.org/" title="Linux" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
+      <a href="https://www.linux.org/" title="Linux" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48"/>
       </a>
-      <a href="https://www.debian.org/" title="Debian" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="40" height="40"/>
+      <a href="https://www.debian.org/" title="Debian" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="48" height="48"/>
       </a>
-      <a href="https://www.kali.org/" title="Kali Linux" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" width="40" height="40"/>
+      <a href="https://www.kali.org/" title="Kali Linux" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" width="48" height="48"/>
       </a>
-      <a href="https://www.nginx.com/" title="Nginx" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="40" height="40"/>
+      <a href="https://www.nginx.com/" title="Nginx" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="48" height="48"/>
       </a>
-      <a href="https://nodejs.org/" title="Node.js" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
+      <a href="https://nodejs.org/" title="Node.js" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48"/>
       </a>
-        <a href="https://www.npmjs.com/" title="npm" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="40" height="40"/>
+        <a href="https://www.npmjs.com/" title="npm" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="48" height="48"/>
       </a>
-      <a href="https://pnpm.io/" title="pnpm" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" width="40" height="40"/>
+      <a href="https://pnpm.io/" title="pnpm" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" width="48" height="48"/>
       </a>
-       <a href="https://www.tensorflow.org/" title="TensorFlow" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/>
+       <a href="https://www.tensorflow.org/" title="TensorFlow" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48"/>
       </a>
-      <a href="https://pytorch.org/" title="PyTorch" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; margin: 4px;">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/>
+      <a href="https://pytorch.org/" title="PyTorch" target="_blank" rel="noopener">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48"/>
       </a>
     </p>
   </ul>
