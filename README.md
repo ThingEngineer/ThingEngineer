@@ -1,6 +1,6 @@
 # Hello world 👋 I'm Josh Campbell
 
-I'm a CTO, Developer, and Maker with a passion for embedded hardware, software, automation, and high-power electronics. I thrive on making mistakes and sometimes learning from them. My professional experience spans roles in R&D, development, and leadership in multiple companies and organizations.
+I'm a Founder and Developer with hands-on maker expertise in embedded hardware, software, automation, GIS, and high-power electronics. I solve problems through rapid experimentation and hands-on learning. My background spans R&D, product development, and technical leadership.
 
 ### Currently Building With:
 
