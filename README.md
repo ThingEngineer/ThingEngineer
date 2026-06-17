@@ -3,6 +3,7 @@
 I'm a CTO, Developer, and Maker with a passion for embedded hardware, software, automation, and high-power electronics. I thrive on making mistakes and sometimes learning from them. My professional experience spans roles in R&D, development, and leadership in multiple companies and organizations.
 
 ### Currently Building With:
+
 <ul style="list-style: none">
   <p>
     <a href="https://www.cloudflare.com/" title="Cloudflare" target="_blank" rel="noopener">
@@ -19,6 +20,9 @@ I'm a CTO, Developer, and Maker with a passion for embedded hardware, software, 
     </a>
     <a href="https://tailwindcss.com/" title="Tailwind CSS" target="_blank" rel="noopener">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48" />
+    </a>
+    <a href="https://svelte.dev/" title="React" target="_blank" rel="noopener">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="React" width="48" height="48" />
     </a>
     <a href="https://ui.shadcn.com" title="shadcn" target="_blank" rel="noopener">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" alt="shadcn" width="48" height="48" />
@@ -56,6 +60,9 @@ I'm a CTO, Developer, and Maker with a passion for embedded hardware, software, 
       </a>
       <a href="https://reactjs.org/" title="React" target="_blank" rel="noopener">
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48"/>
+      </a>
+      <a href="https://ui.shadcn.com" title="shadcn" target="_blank" rel="noopener">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" alt="shadcn" width="48" height="48" />
       </a>
       <a href="https://developer.android.com/studio" title="Android Studio" target="_blank" rel="noopener">
         <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="48" height="48"/>
@@ -209,20 +216,40 @@ I'm a CTO, Developer, and Maker with a passion for embedded hardware, software, 
 <details>
 <summary><b>🌐 Web Technologies</b></summary>
   <ul>
-    <li><b>Platforms/BaaS:</b> Cloudflare, AWS, Supabase, Vercel</li>
-    <li><b>Frameworks:</b> SvelteKit, Next.JS, Laravel, React, Acgular</li>
-    <li><b>Languages:</b>TS/JS, PHP, HTML5, CSS, Tailwind, Swift</li>
-    <li><b>Databases:</b> PostGIS, SQLite, MySQL/MariaDB, MongoDB, Redis</li>
+    <li><b>Platforms/BaaS:</b> Cloudflare, AWS, Supabase, Neon, Vercel, Netlify, GCP, Fastly</li>
+    <li><b>Frameworks:</b> SvelteKit, Next.js, Laravel, React, Angular, Django, Nuxt.js</li>
+    <li><b>Languages:</b> TS/JS, Java, Go, PHP, Python, HTML5, CSS, Tailwind, Swift</li>
+    <li><b>Databases:</b> PostgreSQL, SQLite, MySQL/MariaDB, MongoDB, Redis, ⁠Elasticsearch, TimescaleDB, InfluxDB</li>
     <li><b>IDEs:</b> VS Code, X Code, Android Studio, Sublime</li>
     <li><em>And Many More...</em></li>
   </ul>
 </details>
 
 <details>
+<summary><b>🐳 DevOps & Infrastructure</b></summary>
+  <ul>
+    <li><b>Containerization:</b> containerd, Docker, Docker Compose, Podman, OrbStack</li>
+    <li><b>Deployment:</b> Custom applications, microservices, and common services on personal hardware and VPS infrastructure</li>
+    <li><b>Orchestration:</b> Multi-container deployments, service management, environment configuration</li>
+  </ul>
+</details>
+
+<details>
+<summary><b>🗺️ GIS & Geospatial</b></summary>
+  <ul>
+    <li><b>Hardware & Positioning:</b> RTK (Real-Time Kinematic), custom hardware design, sensor fusion, GNSS systems</li>
+    <li><b>Mapping & Web GIS:</b> OpenLayers, PostGIS, web-based mapping applications, tile rendering</li>
+    <li><b>Data Processing & Conversion:</b> GeoPackage, GeoJSON, FlatGeoBuf, MBTiles, Shapefile, Geodatabase (.gdb), and proprietary formats</li>
+    <li><b>Tools & Workflows:</b> GDAL/OGR, Tippecanoe, TileServer GL, geometry validation, data transformation, projection management</li>
+    <li><b>Expertise:</b> Fluent in all major GIS file types, large-scale parcel mapping, cadastral data processing, spatial data pipelines</li>
+  </ul>
+</details>
+
+<details>
 <summary><b>🔌 Embedded Systems</b></summary>
   <ul>
-    <li><b>Frameworks:</b> ESP-IDF, PlatformIO, FreeRTOS, ROS, Nordic nRF, ...</li>
-    <li><b>Languages:</b> C/C++, Rust, Python, Assembly, Bash</li>
+    <li><b>Frameworks/Platforms:</b> ESP-IDF, PlatformIO, FreeRTOS, ROS, Arduino, Nordic nRF, ...</li>
+    <li><b>Languages:</b> C/C++, Rust, Python, Assembly, Ada/SPARK, Lua</li>
     <li><b>Tools:</b> JTAG/SWD, Flash, OTA</li>
   </ul>
 </details>
@@ -250,6 +277,17 @@ I'm a CTO, Developer, and Maker with a passion for embedded hardware, software, 
   </ul>
 </details>
 
+
+<details>
+<summary><b>⚙️ Methodologies & Practices</b></summary>
+  <ul>
+    <li><b>Research & Problem-Solving:</b> Deep investigation into system requirements, architecture patterns, and emerging technologies; continuous learning from documentation, testing, and real-world feedback</li>
+    <li><b>Agile Practices:</b> Iterative development with frequent feedback loops, sprint-based planning, collaborative team environments, and adaptive workflows</li>
+    <li><b>Testing Philosophy:</b> Comprehensive testing strategy including unit tests, integration tests, and real-world validation; emphasis on automation and early problem detection</li>
+    <li><b>Code Review Standards:</b> Thorough peer review focusing on correctness, performance, maintainability, and knowledge sharing; constructive feedback and architectural consistency</li>
+  </ul>
+</details>
+
 <details>
 <summary><b>💡 My Interests</b></summary>
   <ul>
@@ -264,7 +302,7 @@ I'm a CTO, Developer, and Maker with a passion for embedded hardware, software, 
 
 ### 🚀 Current Focus
 
-I'm currently developing an **Underground Construction ERP application and integrated GIS hardware solution**.
+**Dolphin OS** - An integrated platform for utility construction that manages the complete lifecycle from design through billing. Field operations management, real-time GIS mapping, production tracking, and financial systems working together so that raw work data becomes accurate, auditable job records that everyone in the project chain (crews, contractors, clients) can trust. Multi-tenant architecture connecting prime contractors, subcontractors, and clients in a single ecosystem. Built with custom RTK hardware, PostGIS geospatial infrastructure, and connected field devices for real-time data capture and telemetry.
 
 ---
 
